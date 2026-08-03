@@ -1,0 +1,14 @@
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Messaging\bin\Debug\net10.0\Shared.Messaging.deps.json
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Messaging\bin\Debug\net10.0\Shared.Messaging.runtimeconfig.json
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Messaging\bin\Debug\net10.0\Shared.Messaging.dll
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Messaging\bin\Debug\net10.0\Shared.Messaging.pdb
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Messaging\obj\Debug\net10.0\Shared.Messaging.csproj.AssemblyReference.cache
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Messaging\obj\Debug\net10.0\Shared.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Messaging\obj\Debug\net10.0\Shared.Messaging.AssemblyInfoInputs.cache
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Messaging\obj\Debug\net10.0\Shared.Messaging.AssemblyInfo.cs
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Messaging\obj\Debug\net10.0\Shared.Messaging.csproj.CoreCompileInputs.cache
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Messaging\obj\Debug\net10.0\Shared.Messaging.dll
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Messaging\obj\Debug\net10.0\refint\Shared.Messaging.dll
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Messaging\obj\Debug\net10.0\Shared.Messaging.pdb
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Messaging\obj\Debug\net10.0\Shared.Messaging.genruntimeconfig.cache
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Messaging\obj\Debug\net10.0\ref\Shared.Messaging.dll

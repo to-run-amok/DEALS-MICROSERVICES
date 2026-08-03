@@ -1,0 +1,11 @@
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Contracts\bin\Debug\net10.0\Shared.Contracts.deps.json
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Contracts\bin\Debug\net10.0\Shared.Contracts.dll
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Contracts\bin\Debug\net10.0\Shared.Contracts.pdb
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Contracts\obj\Debug\net10.0\Shared.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Contracts\obj\Debug\net10.0\Shared.Contracts.AssemblyInfoInputs.cache
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Contracts\obj\Debug\net10.0\Shared.Contracts.AssemblyInfo.cs
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Contracts\obj\Debug\net10.0\Shared.Contracts.csproj.CoreCompileInputs.cache
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Contracts\obj\Debug\net10.0\Shared.Contracts.dll
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Contracts\obj\Debug\net10.0\refint\Shared.Contracts.dll
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Contracts\obj\Debug\net10.0\Shared.Contracts.pdb
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Contracts\obj\Debug\net10.0\ref\Shared.Contracts.dll

@@ -1,0 +1,11 @@
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Common\bin\Debug\net10.0\Shared.Common.deps.json
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Common\bin\Debug\net10.0\Shared.Common.dll
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Common\bin\Debug\net10.0\Shared.Common.pdb
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Common\obj\Debug\net10.0\Shared.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Common\obj\Debug\net10.0\Shared.Common.AssemblyInfoInputs.cache
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Common\obj\Debug\net10.0\Shared.Common.AssemblyInfo.cs
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Common\obj\Debug\net10.0\Shared.Common.csproj.CoreCompileInputs.cache
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Common\obj\Debug\net10.0\Shared.Common.dll
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Common\obj\Debug\net10.0\refint\Shared.Common.dll
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Common\obj\Debug\net10.0\Shared.Common.pdb
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Common\obj\Debug\net10.0\ref\Shared.Common.dll

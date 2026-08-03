@@ -1,0 +1,11 @@
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Events\bin\Debug\net10.0\Shared.Events.deps.json
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Events\bin\Debug\net10.0\Shared.Events.dll
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Events\bin\Debug\net10.0\Shared.Events.pdb
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Events\obj\Debug\net10.0\Shared.Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Events\obj\Debug\net10.0\Shared.Events.AssemblyInfoInputs.cache
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Events\obj\Debug\net10.0\Shared.Events.AssemblyInfo.cs
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Events\obj\Debug\net10.0\Shared.Events.csproj.CoreCompileInputs.cache
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Events\obj\Debug\net10.0\Shared.Events.dll
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Events\obj\Debug\net10.0\refint\Shared.Events.dll
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Events\obj\Debug\net10.0\Shared.Events.pdb
+C:\MyProj\Deals-Microservices\building-blocks\Shared.Events\obj\Debug\net10.0\ref\Shared.Events.dll
